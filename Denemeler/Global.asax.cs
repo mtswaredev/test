@@ -7,7 +7,7 @@ using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
 
-// bu ilk denemeydi M.U.
+// bu ilk denemeydi M.U. 21 21 21
 namespace Denemeler
 {
     public class WebApiApplication : System.Web.HttpApplication
